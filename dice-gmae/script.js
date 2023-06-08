@@ -1,11 +1,11 @@
  function randomFx () {
 image = [
-  "images/dice1.png",
-  "images/dice2.png",
-  "images/dice3.png",
-  "images/dice4.png",
-  "images/dice5.png",
-  "images/dice6.png"
+  "dice-gmae/images/dice1.png",
+  "dice-gmae/images/dice2.png",
+  "dice-gmae/images/dice3.png",
+  "dice-gmae/images/dice4.png",
+  "dice-gmae/images/dice5.png",
+  "dice-gmae/images/dice6.png"
 ]
 
 var random1= Math.floor(Math.random() * 6) + 1;
